@@ -1,0 +1,30 @@
+{
+  "general": [
+    "Fiduciary lien (Lei 9.514/97): a contract with a registered lien can only be terminated through the special procedure of arts. 26 and 27; the preliminary objection that an ordinary rescission action is the wrong procedure is routinely missing from the defence.",
+    "Delay in a lot development is not automatic: the 48-month term of Lei 6.766/79 is regulatory and the works schedule is an estimate subject to public approvals and registrations; the defence rarely says so.",
+    "Buyer inertia: a buyer who never asked for a building permit, a site visit or a project approval weakens presumed lost profits and triggers the duty to mitigate; seldom used.",
+    "Association fees in gated lot developments are only due with express adhesion or a note on the property record (STF Tema 492, STJ Temas 882 and 1183); systematically under-used.",
+    "Subsidiary retention request: for contracts before Lei 13.786/2018, the subsidiary request to retain 25% (STJ Súmula 543) is routinely absent when the penalty clause is challenged.",
+    "The consumer code as a complementary regime: the CDC applies alongside, not instead of, Lei 9.514/97 and Lei 6.766/79; defences let it displace the special laws."
+  ],
+  "developments": {
+    "Reserva Exemplo": [
+      "Contracts carry a registered fiduciary lien: the preliminary objection of wrong procedure (Lei 9.514/97, arts. 26 and 27) is missing in most defences.",
+      "The registration of the lien is treated as constitutive when it is only for publicity: the obligation binds the parties regardless of registration.",
+      "No subsidiary request to retain 25% for contracts before Lei 13.786/2018 when the 30% penalty clause is set aside.",
+      "Clauses 4.2 and 5.6 are challenged generically, without the individualised rebuttal art. 341 CPC requires.",
+      "The distinction between an unmotivated withdrawal and a termination for breach, which changes the retention regime, is not explored."
+    ],
+    "Parque Modelo": [
+      "Delay claims: the schedule of infrastructure works is an estimate subject to municipal approvals; the defence lets the contractual date be read as a hard deadline.",
+      "The buyer's inertia (no site visit, no building permit request) is not used against presumed lost profits or to apply the duty to mitigate.",
+      "The certificate of completion of works (TVO) is not used to argue that the development was legally delivered before physical possession.",
+      "Property tax (IPTU) claims: the indemnifiable period and the starting date of interest are never delimited in the alternative."
+    ],
+    "Vila Fictícia": [
+      "Association fees: the absence of express adhesion or of a note on the property record is not argued (STF Tema 492, STJ Tema 882).",
+      "Association contributions are treated as if they ran with the land (propter rem), an equation to condominium charges the defence does not contest.",
+      "Requests to stay the case under STJ Tema 1183 are not renewed on appeal with proper reasoning."
+    ]
+  }
+}
