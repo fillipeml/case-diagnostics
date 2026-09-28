@@ -1,0 +1,224 @@
+{
+  "id": "case-a",
+  "title": "Rescission of a lot purchase with a fiduciary lien",
+  "summary": "The buyer stopped paying, sued to rescind and asked for 90% back plus moral damages. The judgment voided the 30% penalty clause, ordered a full refund and dismissed moral damages; the developer's appeal defended the clause and lost, with a fee increase.",
+  "caseNumber": "0001234-31.2099.8.26.0100",
+  "development": "Reserva Exemplo",
+  "document": {
+    "pages": [
+      [
+        "EXCELENTÍSSIMO SENHOR DOUTOR JUIZ DE DIREITO DA 1ª VARA CÍVEL DO FORO DE CIDADE EXEMPLO – UF",
+        "Processo nº 0001234-31.2099.8.26.0100",
+        "FULANO DE TAL, brasileiro, engenheiro, portador do CPF nº 000.000.000-00, residente na Rua Fictícia, 100, Cidade Exemplo – UF, por seu advogado (Dr. Beltrano Advogado, OAB/ZZ 000.000), vem, respeitosamente, à presença de Vossa Excelência propor a presente",
+        "AÇÃO DE RESCISÃO CONTRATUAL C/C RESTITUIÇÃO DE VALORES E INDENIZAÇÃO POR DANOS MORAIS",
+        "em face de LOTEADORA EXEMPLO S.A., pessoa jurídica de direito privado, CNPJ nº 00.000.000/0001-00, com sede na Avenida Modelo, 200, Cidade Exemplo – UF, pelos fatos e fundamentos a seguir expostos.",
+        "I – DOS FATOS",
+        "Em 10 de março de 2096, o Autor celebrou com a Ré Contrato Particular de Compromisso de Compra e Venda do lote 12 da quadra C do Loteamento Reserva Exemplo, pelo preço de R$ 120.000,00 (cento e vinte mil reais), com entrada de R$ 12.000,00 e 120 parcelas mensais de R$ 900,00. O contrato prevê, na cláusula 8.1, alienação fiduciária em garantia do lote, registrada na matrícula nº 12.345 do Cartório de Registro de Imóveis de Cidade Exemplo.",
+        "O Autor pagou, entre entrada e parcelas, o total de R$ 60.000,00 (sessenta mil reais), conforme planilha anexa (doc. 3). Em razão de dificuldades financeiras decorrentes da perda do emprego, deixou de pagar as parcelas a partir de março de 2098 e notificou a Ré, em 20 de maio de 2098, da intenção de desfazer o negócio, sem obter resposta.",
+        "A cláusula 5.6 do contrato prevê, em caso de rescisão por culpa do comprador, a retenção de 30% (trinta por cento) dos valores pagos, percentual abusivo à luz da jurisprudência consolidada.",
+        "II – DO DIREITO",
+        "Aplica-se ao caso o Código de Defesa do Consumidor. A cláusula 5.6 é abusiva (art. 51, IV, do CDC), impondo-se a devolução dos valores pagos com retenção mínima. Nos termos da Súmula 543 do STJ, na hipótese de resolução de contrato de promessa de compra e venda de imóvel, deve ocorrer a imediata restituição das parcelas pagas pelo promitente comprador, integralmente em caso de culpa exclusiva do promitente vendedor e parcialmente caso tenha sido o comprador quem deu causa ao desfazimento.",
+        "O Autor requer ainda a inversão do ônus da prova, nos termos do art. 6º, VIII, do CDC, dada a sua hipossuficiência técnica.",
+        "A conduta da Ré, que ignorou a notificação e manteve a cobrança das parcelas, causou ao Autor abalo moral indenizável.",
+        "III – DOS PEDIDOS",
+        "Ante o exposto, requer: a) a concessão dos benefícios da justiça gratuita; b) a inversão do ônus da prova (art. 6º, VIII, do CDC); c) a declaração de rescisão do contrato de compromisso de compra e venda do lote 12 da quadra C; d) a condenação da Ré à devolução de 90% (noventa por cento) dos valores pagos, ou seja, R$ 54.000,00 (cinquenta e quatro mil reais), corrigidos monetariamente desde cada desembolso e com juros de mora desde a citação; e) a condenação da Ré ao pagamento de indenização por danos morais no valor de R$ 10.000,00 (dez mil reais); f) a condenação da Ré nas custas e honorários advocatícios.",
+        "Dá-se à causa o valor de R$ 64.000,00.",
+        "Cidade Exemplo, 15 de junho de 2098.",
+        "Beltrano Advogado – OAB/ZZ 000.000"
+      ],
+      [
+        "EXCELENTÍSSIMO SENHOR DOUTOR JUIZ DE DIREITO DA 1ª VARA CÍVEL DO FORO DE CIDADE EXEMPLO – UF",
+        "Processo nº 0001234-31.2099.8.26.0100",
+        "LOTEADORA EXEMPLO S.A., já qualificada nos autos, por seus advogados (Dra. Ciclana Defensora, OAB/ZZ 000.001), nos autos da ação que lhe move FULANO DE TAL, vem apresentar CONTESTAÇÃO, pelas razões de fato e de direito que passa a expor.",
+        "I – SÍNTESE DA DEMANDA",
+        "O Autor pretende a rescisão do compromisso de compra e venda do lote 12 da quadra C do Loteamento Reserva Exemplo, a devolução de 90% dos valores pagos e indenização por danos morais, sob o argumento de que a cláusula penal de 30% seria abusiva.",
+        "II – DO MÉRITO",
+        "II.1 – Da culpa exclusiva do Autor pela rescisão",
+        "O próprio Autor confessa que deixou de pagar as parcelas a partir de março de 2098. A rescisão decorre, portanto, exclusivamente do inadimplemento do comprador, o que atrai a incidência da cláusula penal pactuada.",
+        "II.2 – Da validade da cláusula penal de 30% (cláusula 5.6)",
+        "A cláusula 5.6 prevê a retenção de 30% (trinta por cento) dos valores pagos para cobrir despesas administrativas, de publicidade e de intermediação, além da fruição do lote pelo Autor durante mais de dois anos. O percentual foi livremente pactuado e não é abusivo, tratando-se de contrato de loteamento com custos elevados de comercialização. Requer, pois, a improcedência do pedido de devolução no percentual pretendido, com a retenção de 30% dos valores pagos.",
+        "II.3 – Da inexistência de danos morais",
+        "O mero inadimplemento contratual não gera dano moral. O Autor não demonstrou qualquer abalo extraordinário, limitando-se a alegar aborrecimentos próprios da vida em sociedade. A jurisprudência do Superior Tribunal de Justiça é pacífica nesse sentido.",
+        "III – DOS PEDIDOS",
+        "Requer a improcedência dos pedidos ou, subsidiariamente, a retenção de 30% dos valores pagos, na forma da cláusula 5.6. Protesta pela produção de prova documental, juntando o contrato (doc. 1) e a planilha de despesas (doc. 2).",
+        "Cidade Exemplo, 20 de agosto de 2098.",
+        "Ciclana Defensora – OAB/ZZ 000.001"
+      ],
+      [
+        "SENTENÇA",
+        "Processo nº 0001234-31.2099.8.26.0100",
+        "Vistos.",
+        "FULANO DE TAL ajuizou ação de rescisão contratual cumulada com restituição de valores e indenização por danos morais em face de LOTEADORA EXEMPLO S.A., alegando, em síntese, que adquiriu o lote 12 da quadra C do Loteamento Reserva Exemplo, pagou R$ 60.000,00 e, por dificuldades financeiras, deixou de pagar as parcelas a partir de março de 2098. Pede a rescisão do contrato, a devolução de 90% dos valores pagos (R$ 54.000,00) e indenização por danos morais de R$ 10.000,00.",
+        "A Ré contestou, sustentando a culpa exclusiva do Autor pela rescisão, a validade da cláusula penal de 30% prevista na cláusula 5.6 e a inexistência de danos morais.",
+        "É o relatório. Decido.",
+        "Defiro a inversão do ônus da prova requerida pelo Autor, nos termos do art. 6º, VIII, do CDC, ausente impugnação específica da Ré.",
+        "A rescisão do contrato é incontroversa, pois ambas as partes a pretendem. O inadimplemento do comprador não afasta o seu direito à restituição das parcelas pagas, ainda que com retenção parcial em favor da vendedora (Súmula 543 do STJ).",
+        "A cláusula 5.6, ao fixar a retenção em 30% dos valores pagos, coloca o consumidor em desvantagem exagerada (art. 51, IV, do CDC), sendo nula. A Ré não comprovou despesas concretas que justificassem o percentual, limitando-se a juntar planilha unilateral. Nula a cláusula, e ausente pedido subsidiário de retenção em outro patamar, impõe-se a devolução integral dos valores pagos.",
+        "Quanto aos danos morais, o inadimplemento contratual, por si só, não enseja indenização; o Autor não demonstrou abalo anormal à sua esfera íntima. Improcede o pedido.",
+        "DISPOSITIVO",
+        "Ante o exposto, JULGO PARCIALMENTE PROCEDENTE a ação para: (i) declarar rescindido o contrato de compromisso de compra e venda do lote 12 da quadra C do Loteamento Reserva Exemplo; (ii) condenar a Ré à devolução integral dos valores pagos pelo Autor, no montante de R$ 60.000,00 (sessenta mil reais), corrigidos monetariamente desde cada desembolso e acrescidos de juros de mora de 1% ao mês desde a citação; (iii) julgar improcedente o pedido de indenização por danos morais.",
+        "Em razão da sucumbência recíproca, as custas serão rateadas na proporção de 70% para a Ré e 30% para o Autor, e os honorários advocatícios, fixados em 10% sobre o valor da condenação, serão suportados na mesma proporção, observada a gratuidade deferida ao Autor.",
+        "P.R.I.",
+        "Cidade Exemplo, 12 de dezembro de 2098.",
+        "Sicrana Julgadora – Juíza de Direito"
+      ],
+      [
+        "EGRÉGIO TRIBUNAL DE JUSTIÇA DO ESTADO – UF",
+        "Apelação Cível – Processo nº 0001234-31.2099.8.26.0100",
+        "Apelante: LOTEADORA EXEMPLO S.A. – Apelado: FULANO DE TAL",
+        "RAZÕES DE APELAÇÃO",
+        "I – DA TEMPESTIVIDADE E DO PREPARO",
+        "O recurso é tempestivo e o preparo foi recolhido, conforme guia anexa.",
+        "II – DAS RAZÕES PARA A REFORMA",
+        "A r. sentença merece reforma no ponto em que afastou integralmente a cláusula penal. A cláusula 5.6 foi livremente pactuada e cobre despesas efetivas de comercialização; o próprio Autor usufruiu do lote por mais de dois anos. A retenção de 30% é compatível com a jurisprudência que admite percentuais entre 10% e 25% em favor do vendedor, devendo ser restabelecida.",
+        "Ainda que se considere excessivo o percentual, a devolução não pode ser integral, pois o Autor deu causa à rescisão, o que a própria sentença reconheceu.",
+        "III – DO PEDIDO",
+        "Requer o conhecimento e o provimento do recurso para reformar a sentença e reconhecer a validade da retenção de 30% dos valores pagos, na forma da cláusula 5.6, invertendo-se os ônus da sucumbência.",
+        "Cidade Exemplo, 20 de janeiro de 2099.",
+        "Ciclana Defensora – OAB/ZZ 000.001"
+      ],
+      [
+        "ACÓRDÃO",
+        "Apelação Cível nº 0001234-31.2099.8.26.0100 – Comarca de Cidade Exemplo",
+        "Apelante: LOTEADORA EXEMPLO S.A. – Apelado: FULANO DE TAL",
+        "EMENTA: COMPROMISSO DE COMPRA E VENDA DE LOTE. RESCISÃO POR INADIMPLEMENTO DO COMPRADOR. CLÁUSULA PENAL DE 30%. ABUSIVIDADE RECONHECIDA. AUSÊNCIA DE PROVA DE DESPESAS. DEVOLUÇÃO DOS VALORES PAGOS MANTIDA. RECURSO NÃO PROVIDO.",
+        "Vistos, relatados e discutidos estes autos, ACORDAM os Desembargadores da 5ª Câmara de Direito Privado, por votação unânime, em negar provimento ao recurso, nos termos do voto do Relator.",
+        "VOTO",
+        "A apelante insurge-se contra a sentença que reconheceu a nulidade da cláusula 5.6 e determinou a devolução dos valores pagos pelo apelado.",
+        "Sem razão. A apelante não trouxe prova das despesas que a cláusula pretende cobrir; a planilha unilateral não basta. O percentual de 30% é abusivo, como reconhece a jurisprudência desta Corte. A sentença, ao determinar a devolução dos valores pagos, não comporta reparos nos limites do que foi devolvido a este Tribunal pela apelante, que se restringiu a defender a validade da cláusula 5.6.",
+        "Nego provimento ao recurso e, nos termos do art. 85, §11, do CPC, majoro os honorários advocatícios de 10% para 12% sobre o valor da condenação.",
+        "Cidade Exemplo, 15 de março de 2099.",
+        "Desembargador Fictício Relator – Relator"
+      ]
+    ]
+  },
+  "map": "1. IDENTIFICATION OF THE CASE\nParties: FULANO DE TAL (plaintiff, buyer of lot 12, block C, Reserva Exemplo) v. LOTEADORA EXEMPLO S.A. (defendant, developer, the client). Stage: appellate decision rendered on 15 March 2099; the developer's appeal was denied. Contract: private instrument of purchase and sale of a lot dated 10 March 2096, price R$ 120.000,00, down payment R$ 12.000,00 and 120 monthly instalments of R$ 900,00; clause 8.1 provides a fiduciary lien on the lot registered on property record no. 12.345. Amount in dispute: R$ 64.000,00.\n\n2. THE PLAINTIFF'S CLAIMS\n- Free legal aid.\n- Reversal of the burden of proof (CDC art. 6, VIII).\n- Rescission of the contract for lot 12, block C.\n- Refund of 90% of the amounts paid, i.e. R$ 54.000,00 of R$ 60.000,00, adjusted from each payment with interest from service.\n- Moral damages of R$ 10.000,00 for ignoring the notice and continuing to bill.\n- Costs and fees.\nGrounds: CDC art. 51, IV (abusive clause 5.6 retaining 30%), STJ Súmula 543 (immediate partial refund when the buyer caused the termination).\n\n3. THE DEFENCE, PLEADING BY PLEADING\nDefence (contestação): the buyer confessed the default from March 2098, so the termination is the buyer's exclusive fault; clause 5.6 (30% retention) is valid and covers administrative, advertising and brokerage costs plus two years of use of the lot; no moral damages for a mere breach. Requests dismissal or, in the alternative, retention of 30% under clause 5.6. Documents: the contract and a unilateral spreadsheet of expenses. The defence did not raise the fiduciary lien (Lei 9.514/97) as a preliminary objection, did not rebut the request to reverse the burden of proof, and made no subsidiary request for a retention lower than 30%.\nAppeal (razões de apelação): repeats that clause 5.6 was freely agreed and covers real costs; argues 30% is compatible with case law admitting 10% to 25%; adds that the refund cannot be full because the buyer caused the termination. Asks only for the validity of the 30% retention. Does not argue ultra petita, does not raise the lien, does not ask for 25% in the alternative.\n\n4. DEFENSIVE GAPS IDENTIFIED\n- The judgment ordered a FULL refund (R$ 60.000,00) when the plaintiff asked for 90% (R$ 54.000,00); the appeal never raised ultra petita.\n- No preliminary objection that a contract with a registered fiduciary lien is terminated through the procedure of Lei 9.514/97, not an ordinary rescission action.\n- No subsidiary request to retain 25% (or any percentage below 30%) if clause 5.6 were voided; the judgment explicitly noted this absence.\n- The request to reverse the burden of proof was granted for lack of a specific rebuttal.\n- The expenses clause 5.6 claims to cover were never proven with real documents; a unilateral spreadsheet was the only evidence.\n\n5. EVIDENCE\nPlaintiff: the contract, the payment spreadsheet (doc. 3), the notice of 20 May 2098. Defendant: the contract (doc. 1) and a unilateral spreadsheet of expenses (doc. 2). Missing: invoices of advertising and brokerage, administrative cost records, proof of the buyer's use of the lot.\n\n6. DECISIONS\nJudgment of 12 December 2098: granted the reversal of the burden of proof (no specific rebuttal); declared the contract rescinded; voided clause 5.6 as abusive (CDC art. 51, IV) for lack of proof of concrete expenses; ordered the full refund of R$ 60.000,00 with adjustment and 1% monthly interest from service; dismissed moral damages (a mere breach does not cause moral damage); costs 70/30, fees of 10% of the award in the same proportion.\nULTRA PETITA CONFIRMED: plaintiff asked 90% (R$ 54.000,00) -> judgment granted 100% (R$ 60.000,00, \"devolução integral dos valores pagos\").\nAppellate decision of 15 March 2099: appeal denied unanimously; the developer proved no expenses; 30% is abusive; the court noted it ruled within the limits of what the appellant brought to it, which was only the validity of clause 5.6. FEES: \"majoro os honorários advocatícios de 10% para 12%\" under art. 85, §11 CPC.\n\n7. LEGAL REGIME OF THE CONTRACT\nA fiduciary lien is registered on the property record (clause 8.1, record 12.345) and was never raised by the defence. The CDC was applied as the main regime by the plaintiff and the courts; the special regime of Lei 9.514/97 was not discussed by anyone. No tolerance period, force majeure or contributory fault was discussed; the case is about termination by the buyer's default and the retention percentage.\n\n8. SUMMARY TABLE\nCLAIMS - FINAL OUTCOME:\n- Rescission of the contract -> GRANTED - undisputed termination for the buyer's default\n- Refund of 90% of the amounts paid (R$ 54.000,00) -> GRANTED - the judgment ordered the full refund of R$ 60.000,00 after voiding clause 5.6\n- Moral damages of R$ 10.000,00 -> DISMISSED - a mere breach of contract, no abnormal distress shown\n- Reversal of the burden of proof -> GRANTED - no specific rebuttal by the defendant\nULTRA PETITA: CONFIRMED: plaintiff asked 90% (R$ 54.000,00) -> judgment granted 100% (R$ 60.000,00, devolução integral)\nFEES INCREASED: yes: from 10% to 12% of the award under art. 85, §11 CPC\nDEFENCE WINS:\n- moral damages -> DISMISSED - a mere breach of contract does not cause moral damage\nSPECIAL LAWS ARGUED:\n- None - CDC and Civil Code only\nABSENT TOPICS:\n- delay of works\n- lost profits\n- association fees\n- property tax",
+  "raw": {
+    "complexity": {
+      "level": "medium",
+      "rationale": "Cumulative claims (rescission, refund, moral damages) and one appeal already decided, so the matter is at the appellate stage with fees increased. The legal question (retention percentage under STJ Súmula 543 and CDC art. 51, IV) is largely settled. The amount in dispute is moderate (R$ 64.000,00) and the evidence is documentary only; two parties."
+    },
+    "risk": {
+      "level": "high",
+      "coverage": "The defence answered the retention claim only with the validity of clause 5.6 and never offered a lower percentage in the alternative, which the judgment expressly noted. The request to reverse the burden of proof went unanswered.",
+      "evidence": "The 30% retention rested on a unilateral spreadsheet; no invoice or record of advertising, brokerage or administrative expenses was filed, and both courts said so.",
+      "appealStage": "The appeal repeated the defence and attacked only the validity of clause 5.6. It did not raise the excess of the award over the request, and it cost a fee increase from 10% to 12% under art. 85, §11 CPC.",
+      "causation": "Not a damages case on the developer's side: the refund follows the termination, and the defence never linked the retention percentage to concrete losses caused by the buyer's default.",
+      "summary": "High risk: the award exceeds what was asked and the appeal left that untouched, the refund is now full with a higher fee, and the strongest structural defence (the lien regime) was never raised."
+    },
+    "theses": [
+      {
+        "title": "The judgment granted a full refund when the plaintiff asked for 90%: ultra petita (art. 492 CPC) was never raised on appeal",
+        "category": "ground_not_attacked",
+        "newFinding": true,
+        "anchor": "condenar a Ré à devolução integral dos valores pagos pelo Autor, no montante de R$ 60.000,00",
+        "analysis": "The complaint asked for the refund of 90% of the amounts paid, R$ 54.000,00. The judgment ordered the refund of the full R$ 60.000,00. The appeal defended clause 5.6 and said nothing about the excess, and the appellate court stated it ruled within the limits the appellant brought. The point can still be raised in a motion for clarification or on further appeal, but it was the cheapest 10% of the award."
+      },
+      {
+        "title": "The registered fiduciary lien was never raised as a preliminary objection of wrong procedure (Lei 9.514/97, arts. 26 and 27)",
+        "category": "free_argument",
+        "newFinding": true,
+        "anchor": "alienação fiduciária em garantia do lote, registrada na matrícula nº 12.345",
+        "analysis": "Clause 8.1 provides a fiduciary lien registered on record 12.345. A contract with a registered lien is terminated through the consolidation procedure of Lei 9.514/97, not an ordinary rescission action with a refund. The defence litigated only the retention percentage and let the CDC govern the whole case."
+      },
+      {
+        "title": "No subsidiary request to retain 25% if clause 5.6 were voided (STJ Súmula 543)",
+        "category": "unanswered_claim",
+        "newFinding": true,
+        "anchor": "ausente pedido subsidiário de retenção em outro patamar, impõe-se a devolução integral dos valores pagos",
+        "analysis": "The plaintiff attacked clause 5.6 as abusive and the defence answered only that 30% was valid. The judgment voided the clause and, noting the absence of any alternative percentage, ordered a full refund. A subsidiary request under STJ Súmula 543 would have kept a retention on the table even after the clause fell."
+      },
+      {
+        "title": "The reversal of the burden of proof was granted for lack of a specific rebuttal",
+        "category": "unanswered_claim",
+        "newFinding": true,
+        "anchor": "Defiro a inversão do ônus da prova requerida pelo Autor, nos termos do art. 6º, VIII, do CDC, ausente impugnação específica da Ré",
+        "analysis": "The complaint asked for the reversal under CDC art. 6, VIII. The defence did not contest the requirements of vulnerability and plausibility, and the judgment granted the reversal on that silence. With the burden reversed, the unproven expenses of clause 5.6 weighed against the developer."
+      },
+      {
+        "title": "The appeal repeated the defence and cost a fee increase under art. 85, §11 CPC",
+        "category": "fragile_appeal",
+        "newFinding": true,
+        "anchor": "majoro os honorários advocatícios de 10% para 12% sobre o valor da condenação",
+        "analysis": "The appeal brought no new ground and no new evidence; it restated that clause 5.6 was freely agreed. The appellate court denied it and raised the fees from 10% to 12% of the award. An appeal limited to the excess over the request would have had a concrete object and a better chance."
+      },
+      {
+        "title": "Concrete evidence of advertising, brokerage and administrative expenses was never produced",
+        "category": "unused_evidence",
+        "newFinding": false,
+        "anchor": "A Ré não comprovou despesas concretas que justificassem o percentual, limitando-se a juntar planilha unilateral",
+        "analysis": "The defence alleged the expenses clause 5.6 covers but filed only a spreadsheet it drew up itself. Both the judgment and the appellate decision rested the abusiveness finding on that absence. Invoices and brokerage contracts existed for a marketed development and were the evidence the case needed."
+      },
+      {
+        "title": "Moral damages: no subsidiary request to reduce the quantum",
+        "category": "free_argument",
+        "newFinding": true,
+        "anchor": "indenização por danos morais no valor de R$ 10.000,00",
+        "analysis": "The defence denied moral damages outright and did not ask, in the alternative, for a reduction of the R$ 10.000,00 requested. A subsidiary request would have capped the exposure if the claim had been granted."
+      },
+      {
+        "title": "The 180-day tolerance period for the delay of works (Lei 6.766/79) was never invoked",
+        "category": "free_argument",
+        "newFinding": true,
+        "anchor": "prazo de tolerância de 180 dias para a conclusão das obras de infraestrutura",
+        "analysis": "Lot contracts carry a tolerance period for the completion of works, and Lei 6.766/79 gives the developer a regulatory term. The defence did not invoke either to answer the delay of works."
+      },
+      {
+        "title": "Clause 9.2 waives the buyer's right to withdraw and was never invoked",
+        "category": "unanswered_claim",
+        "newFinding": true,
+        "anchor": "cláusula 9.2 – renúncia ao direito de arrependimento",
+        "analysis": "The contract contains a waiver of the right to withdraw in clause 9.2, which the defence could have used against the buyer's own request to rescind. It was not invoked."
+      },
+      {
+        "title": "The defence did not answer the plaintiff's reliance on Lei 13.786/2018 for a retention cap",
+        "category": "unanswered_claim",
+        "newFinding": true,
+        "anchor": "retenção de 30% (trinta por cento) dos valores pagos",
+        "analysis": "The plaintiff invoked the cap on retention of Lei 13.786/2018 against clause 5.6 and the defence said nothing about the statute. The silence let the court treat the 30% as abusive without discussing the legal cap."
+      }
+    ],
+    "opportunities": [
+      {
+        "title": "Raise the fiduciary-lien regime as a preliminary objection in every rescission action",
+        "originInCase": "Clause 8.1 with the lien registered on record 12.345 (complaint, page 1), never mentioned by the defence.",
+        "suggestedPattern": "Every contract of the development with a registered fiduciary lien belongs to the special regime of Lei 9.514/97. When a buyer sues to rescind and get a refund, the first line of the defence must be the preliminary objection that the ordinary rescission action is the wrong procedure: the contract is terminated by the consolidation of the property in the creditor's name and the public auction of the lot, with the refund, if any, computed from the auction under arts. 26 and 27.\n\nThe objection changes the economics of the case. Instead of a percentage retained from what was paid, the developer keeps the lot and settles accounts after the auction. Even where a court refuses the objection, having raised it preserves the point for appeal and frames the CDC as a complementary regime rather than the only one.\n\nThe objection must come with the registration certificate showing the lien on the record, so the precondition is proven with the defence and not argued later. Where the lien was agreed but not registered, argue that the obligation binds the parties regardless of registration, which serves publicity, not constitution.\n\nCoordinate with the credit team: the objection presupposes the developer is willing to run the consolidation procedure, which has its own notice requirements.",
+        "checklist": [
+          "Check on the property record whether the lien of clause 8.1 is registered and attach the certificate",
+          "Open the defence with the preliminary objection of wrong procedure under Lei 9.514/97, arts. 26 and 27",
+          "Argue the CDC as a complementary regime, not a substitute for the special law",
+          "Where the lien is not registered, argue the obligational effect between the parties",
+          "Confirm with the credit team that consolidation is an acceptable path before pleading it"
+        ]
+      },
+      {
+        "title": "Always plead a subsidiary retention percentage when defending a penalty clause",
+        "originInCase": "The judgment voided clause 5.6 and, noting the absence of any subsidiary request, ordered a full refund (judgment, page 3).",
+        "suggestedPattern": "Penalty clauses of 30% in lot contracts before Lei 13.786/2018 are routinely voided as abusive. Defending the clause alone is a bet on a single outcome: if the clause falls, the refund is full. The defence must always plead, in the alternative, a retention of 25% under STJ Súmula 543, or the percentage the local court accepts, so the case never ends with zero retention.\n\nThe subsidiary request costs nothing and preserves the point for appeal. Courts that void the clause will usually accept a lower percentage when it is requested, because Súmula 543 itself provides for a partial refund when the buyer caused the termination.\n\nPair the request with a concrete account of the expenses the retention covers: brokerage invoices, advertising contracts and administrative records, not a spreadsheet drawn up for the case. The percentage is easier to sustain when the loss is shown.\n\nOn appeal, attack the percentage and the excess over the request separately, so that each ground stands on its own.",
+        "checklist": [
+          "Plead the validity of the clause and, in the alternative, a retention of 25% (STJ Súmula 543)",
+          "Attach brokerage and advertising invoices and administrative cost records with the defence",
+          "State the retention in reais as well as in percentage, so the judgment cannot exceed it",
+          "On appeal, separate the ground on the percentage from the ground on the excess over the request"
+        ]
+      },
+      {
+        "title": "Check every award against the request before filing the appeal",
+        "originInCase": "The plaintiff asked for 90% (R$ 54.000,00) and the judgment ordered R$ 60.000,00; the appeal did not raise it (appeal, page 4).",
+        "suggestedPattern": "Before drafting the appeal, compare each item of the operative part with each item of the requests: percentage, amount, starting date of interest and adjustment. Any excess is an autonomous ground under art. 492 CPC, with an almost certain result, and it does not depend on the merits of the retention.\n\nAn appeal that raises the excess first and the merits second has a concrete object the appellate court must address, and it lowers the risk of a fee increase, because the court is unlikely to treat a well-founded ground as a mere repetition of the defence.\n\nRecord the comparison in the file memo, so the next lawyer on the case sees it, and use a motion for clarification when the excess appears in the judgment, which is the cheapest moment to fix it.",
+        "checklist": [
+          "Compare the operative part with the requests item by item before the appeal deadline",
+          "Raise any excess as the first ground of the appeal under art. 492 CPC",
+          "Consider a motion for clarification when the excess is in the judgment",
+          "Note the comparison in the case memo for the next pleading"
+        ]
+      }
+    ]
+  },
+  "planted": [
+    { "title": "Moral damages: no subsidiary request to reduce the quantum", "rule": "won_topic" },
+    { "title": "The 180-day tolerance period for the delay of works (Lei 6.766/79) was never invoked", "rule": "absent_topic" },
+    { "title": "Clause 9.2 waives the buyer's right to withdraw and was never invoked", "rule": "anchor_not_found" },
+    { "title": "The defence did not answer the plaintiff's reliance on Lei 13.786/2018 for a retention cap", "rule": "citation_not_in_file" }
+  ]
+}
