@@ -42,7 +42,13 @@ function wrap(text: string, width: number, measure: (s: string) => number): stri
   return lines;
 }
 
-async function render(file: CaseFile): Promise<Uint8Array> {
+/** Returns the bytes and the page count of the document actually written.
+ *
+ *  Not `file.document.pages.length`: a long page spills onto another, so the PDF has more
+ *  pages than the JSON has logical ones. Reporting the logical count understated every file
+ *  by the overflow, and that number is what docs/DEMO.md quoted at readers who then saw a
+ *  different one on screen. */
+async function render(file: CaseFile): Promise<{ bytes: Uint8Array; pageCount: number }> {
   const doc = await PDFDocument.create();
   doc.setTitle(`Processo ${file.caseNumber} (fictional case file)`);
   doc.setSubject(file.title);
@@ -72,17 +78,17 @@ async function render(file: CaseFile): Promise<Uint8Array> {
       y -= PARAGRAPH_GAP;
     }
   }
-  return doc.save({ useObjectStreams: false });
+  return { bytes: await doc.save({ useObjectStreams: false }), pageCount: doc.getPageCount() };
 }
 
 async function main(): Promise<void> {
   mkdirSync(OUT_DIR, { recursive: true });
   for (const name of ["case-a", "case-b"]) {
     const file = JSON.parse(readFileSync(path.join(CASES_DIR, `${name}.json`), "utf-8")) as CaseFile;
-    const bytes = await render(file);
+    const { bytes, pageCount } = await render(file);
     const target = path.join(OUT_DIR, `${file.id}.pdf`);
     writeFileSync(target, bytes);
-    console.log(`${path.relative(ROOT, target)}: ${file.document.pages.length} pages, ${bytes.byteLength} bytes`);
+    console.log(`${path.relative(ROOT, target)}: ${pageCount} pages, ${bytes.byteLength} bytes`);
   }
 }
 

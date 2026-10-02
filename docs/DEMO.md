@@ -10,7 +10,7 @@ npm run dev                    # http://localhost:3000
 
 ## 1. Load a sample and run it
 
-Click **Rescission of a lot purchase with a fiduciary lien**. The sample PDF (`public/samples/case-a.pdf`, five pages of a fictional Portuguese case file) is loaded into the upload zone and the development is set to *Reserva Exemplo*, which selects that development's patterns from the knowledge base. Run the diagnosis.
+Click **Rescission of a lot purchase with a fiduciary lien**. The sample PDF (`public/samples/case-a.pdf`, six pages of a fictional Portuguese case file) is loaded into the upload zone and the development is set to *Reserva Exemplo*, which selects that development's patterns from the knowledge base. Run the diagnosis.
 
 What the app does with it, in order:
 
@@ -42,7 +42,7 @@ All four appear under **What the rules discarded**, with the reason. The summary
 
 ## 4. The second sample
 
-**Delay of infrastructure works in a lot development** exercises the same rules on a different file (four pages, development *Parque Modelo*): five genuine theses, four planted ones, all four caught.
+**Delay of infrastructure works in a lot development** exercises the same rules on a different file (five pages, development *Parque Modelo*): five genuine theses, four planted ones, all four caught.
 
 ## 5. Upload anything else
 
