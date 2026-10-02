@@ -24,6 +24,7 @@ next-env.d.ts
 .vercel
 
 # scan output
+sanitize.toml
 sanitize-report.*
 
 # AI tooling local state
