@@ -36,7 +36,10 @@ export function loadSettings(env: Env = process.env): Settings {
   const demoMode = env.DEMO_MODE !== undefined ? env.DEMO_MODE === "true" : apiKey === "";
   const language = env.OUTPUT_LANGUAGE === "pt-BR" ? "pt-BR" : "en";
   const fragments = list(env.CLIENT_NAME_FRAGMENTS);
-  const maxMb = Number(env.MAX_UPLOAD_MB ?? "50");
+  // `||`, not `??`: a cleared field in a hosting dashboard arrives as "", which `??` lets
+  // through and `Number("")` turns into 0 — silently capping uploads at 1 MB via the clamp
+  // below, and telling the user their case file "exceeds the limit of 1 MB".
+  const maxMb = Number(env.MAX_UPLOAD_MB || "50");
   const s3 =
     env.S3_BUCKET && env.AWS_ACCESS_KEY_ID && env.AWS_SECRET_ACCESS_KEY
       ? {

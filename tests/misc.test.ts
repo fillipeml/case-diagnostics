@@ -37,6 +37,18 @@ describe("loadSettings", () => {
     expect(loadSettings({}).clientNameFragments).toEqual(DEFAULT_CLIENT_FRAGMENTS);
     expect(loadSettings({}).s3).toBeNull();
   });
+
+  it("falls back to the documented default when the upload cap is blank", () => {
+    // A cleared field in a hosting dashboard arrives as "". `??` let it through, Number("")
+    // is 0, and the clamp turned that into 1 — so an ordinary case file was refused with
+    // "exceeds the limit of 1 MB", a number nothing documents.
+    expect(loadSettings({ MAX_UPLOAD_MB: "" }).maxUploadBytes).toBe(50 * 1024 * 1024);
+    expect(loadSettings({ MAX_UPLOAD_MB: "8" }).maxUploadBytes).toBe(8 * 1024 * 1024);
+    // "0" is a truthy string, so it is taken as written and the clamp below gives the 1 MB
+    // floor. That is someone asking for no uploads and getting the smallest allowed, which
+    // is a different thing from a blank field and is left alone.
+    expect(loadSettings({ MAX_UPLOAD_MB: "0" }).maxUploadBytes).toBe(1 * 1024 * 1024);
+  });
 });
 
 describe("prompts and parser agree", () => {
